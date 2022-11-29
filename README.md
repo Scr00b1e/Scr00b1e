@@ -46,3 +46,14 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr00b1e&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+<br>
+<br>
+
+<div align="center">
+<a href="https://twitter.com/scr00b1e" target="_blank" rel="noreferrer">
+      <img  alt="twitter" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />
+  </a>
+  <a href="https://t.me/scr00b1e" target="_blank" rel="noreferrer">
+      <img  alt="tg" height="50px" style="padding-right:10px; ;" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/>
+  </a>
+</div>
