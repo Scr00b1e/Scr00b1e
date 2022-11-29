@@ -5,6 +5,7 @@
 <br>
 <br>
 
+<h1>⚙️ Languages and Tools</h1>
 <div align="center">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img  alt="NextJS" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" />
@@ -33,3 +34,15 @@
 </div>
 <br>
 <br>
+<!-- Statistics -->
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+<div class="stats" align="center">
+
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scr00b1e&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Scr00b1e&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr00b1e&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
