@@ -17,7 +17,7 @@
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
    <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer">
-      <img  alt="Redux" height="50px" style="padding-right:10px;" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" />
+      <img  alt="Redux" height="50px" style="padding-right:10px;" src="https://miro.medium.com/max/800/1*ZxmcaOzul181U6BT5z-Ipw.png" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
