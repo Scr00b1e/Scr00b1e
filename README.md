@@ -38,12 +38,6 @@
   </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scr00b1e&show_icons=true&locale=en&layout=compact" alt="scr00b1e" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scr00b1e&show_icons=true&locale=en" alt="scr00b1e" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scr00b1e&" alt="scr00b1e" /></p>
-
 <h3>Socials</h3>
 <p align="left">
 <a href="https://twitter.com/scr00b1e" target="_blank" rel="noreferrer">
@@ -53,3 +47,9 @@
       <img  alt="tg" height="50px" style="padding-right:10px; ;" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/>
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scr00b1e&show_icons=true&locale=en&layout=compact" alt="scr00b1e" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scr00b1e&show_icons=true&locale=en" alt="scr00b1e" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scr00b1e&" alt="scr00b1e" /></p>
