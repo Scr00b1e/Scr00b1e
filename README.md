@@ -4,7 +4,7 @@
     I'm just enjoy to work with frontend. So i'm good in React and Next.js. I also know how to work with tailwindcss. I always trynna increase my knowledge and would love to work with new technologies, stacks etc.
 <br>
 
-<h3>⚙️ Languages and Tools</h1>
+<h3 align="center">Languages and Tools</h1>
 <div align="center">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img  alt="NextJS" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
@@ -37,13 +37,6 @@
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
 </div>
-<br>
-<br>
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scr00b1e&show_icons=true&locale=en&layout=compact" alt="scr00b1e" /></p>
 
@@ -51,6 +44,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scr00b1e&" alt="scr00b1e" /></p>
 
+<h3>Socials</h3>
 <p align="left">
 <a href="https://twitter.com/scr00b1e" target="_blank" rel="noreferrer">
       <img  alt="twitter" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />
