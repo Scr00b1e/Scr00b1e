@@ -43,22 +43,19 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<div class="stats" align="center">
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scr00b1e&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Scr00b1e&count_private=true&theme=algolia&border_radius=20)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scr00b1e&show_icons=true&locale=en&layout=compact" alt="scr00b1e" /></p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr00b1e&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<br>
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scr00b1e&show_icons=true&locale=en" alt="scr00b1e" /></p>
 
-<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scr00b1e&" alt="scr00b1e" /></p>
+
+<p align="left">
 <a href="https://twitter.com/scr00b1e" target="_blank" rel="noreferrer">
       <img  alt="twitter" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />
   </a>
   <a href="https://t.me/scr00b1e" target="_blank" rel="noreferrer">
       <img  alt="tg" height="50px" style="padding-right:10px; ;" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/>
   </a>
-</div>
+</p>
