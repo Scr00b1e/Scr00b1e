@@ -4,8 +4,8 @@
     I'm just enjoy to work with frontend. So i'm good in React and Next.js. I also know how to work with tailwindcss. I always trynna increase my knowledge and would love to work with new technologies, stacks etc.
 <br>
 
-<h3 align="center">Languages and Tools</h1>
-<div align="center">
+<h3 align="left">Languages and Tools</h1>
+<div align="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img  alt="NextJS" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
   </a>
