@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;">Hi👋, I'm Jack, a.k.a Scr00b1e</h1>
+<h1 style="color: #44AEFB;">Hi👋, I'm Ulukbek, a.k.a Scr00b1e</h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I'm just enjoy to work with frontend. So i'm good in React, Vue and Next.js. I also know how to work with tailwindcss. I always trynna increase my knowledge and would love to work with new technologies, stacks etc.
