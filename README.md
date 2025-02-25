@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;">Hi👋, I'm Ulukbek, a.k.a Scr00b1e</h1>
+<h1 style="color: #44AEFB;">Hi👋, I'm Ulukbek</h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I just enjoy to work with frontend. I work with React and 1C, sometimes with Vue and Next.js
